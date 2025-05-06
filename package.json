@@ -1,7 +1,7 @@
 {
   "name": "clairity",
   "version": "1.2.0",
-  "description": "script made by xZiyy",
+  "description": "script made by lepp",
   "main": "exec.js",
   "scripts": {
     "start": "node exec.js"
